@@ -1,59 +1,55 @@
-# 🚀 Karthik V – Game Developer Portfolio
+# 🕹️ Karthik V – Portfolio
 
-Welcome to my portfolio! I'm **Karthik V**, a passionate **game developer**, **MLH hackathon winner**, and a student at **IARE**. This portfolio showcases my hackathon games, creative projects, and achievements.
+[![Live](https://img.shields.io/badge/Live-%F0%9F%94%B4-red?style=for-the-badge&logo=githubpages)](https://karthikveeranala.github.io/portfolio)
+![MLH](https://img.shields.io/badge/MLH-Winner-yellow?style=flat-square&logo=medal)
+[![GitHub](https://img.shields.io/badge/GitHub-KarthikVeeranala-black?style=for-the-badge&logo=github)](https://github.com/KarthikVeeranala)
 
----
-
-## 🌟 Projects
-
-### 🎮 Geek'O'Wars
-**Third Place – FrostHacks (MLH)**  
-A TPS survival game where the protagonist, Jimmy, is trapped inside his own laptop and must fight off viruses to escape.  
-🔗 [Devpost Submission](https://devpost.com/software/geek-o-wars)  
-📹 [YouTube Trailer](https://youtu.be/Ev9z2NhpzhQ)
+Welcome to my personal portfolio site — built to showcase my game development projects, design skills, and hackathon wins.
 
 ---
 
-### 🚀 Interlude
-**First Place – CodeDay 2.0**  
-A fast-paced space shooter made in 24 hours using Unreal Engine. Battle enemy waves in deep space!  
+## 🧠 About Me
+
+🎓 CS Student @ IARE Hyderabad  
+🎮 Game Developer (Unreal Engine, C++, Unity)  
+🏆 3x Hackathon Winner (including an MLH Top 3)  
+🚀 Passionate about building immersive & creative gaming experiences
+
+---
+
+## 🚀 Featured Projects
+
+### 🛸 Interlude  
+> A space shooter made in 24 hours for CodeDay 2.0  
 🔗 [CodeDay Showcase](https://showcase.codeday.org/project/claxnqs0n1204021fgiftjsldqfi)  
-📹 [YouTube Trailer](https://youtu.be/dHsKdx9EZbs)
+📽️ [Trailer](https://youtu.be/dHsKdx9EZbs)
 
 ---
 
-### 🏝️ ByteOasis
-**Second Place – HackRush 2.0**  
-A survival puzzle game where a stranded programmer solves coding challenges to escape an island.  
-📦 [Download Game (1.4 GB)](https://drive.google.com/drive/folders/1VgsEXIlgDOYZEDbVNmD2cDnmNajDsa0n?usp=drive_link)  
-📹 [YouTube Trailer](https://youtu.be/N3iP3Src8uw)
+### 🧠 Geek’O’Wars  
+> A TPS survival game built for FrostHacks (MLH) — placed 3rd!  
+🔗 [Devpost](https://devpost.com/software/geek-o-wars)  
+📽️ [Trailer](https://youtu.be/Ev9z2NhpzhQ)
 
 ---
 
-## 🏆 Hackathon Wins
-- 🥇 **CodeDay 2.0** – 1st Place for *Interlude*
-- 🥉 **FrostHacks (MLH)** – 3rd Place for *Geek'O'Wars*
-- 🥈 **HackRush 2.0** – 2nd Place for *ByteOasis*
-
----
-
-## 🌐 Live Website
-
-📡 **Visit now:**  
-[https://karthikveeranala.github.io/portfolio](https://karthikveeranala.github.io/portfolio)
+### 🏝️ ByteOasis  
+> Solve code puzzles after crash-landing on a mysterious island  
+🔗 [Download Game (1.4 GB)](https://drive.google.com/drive/folders/1VgsEXIlgDOYZEDbVNmD2cDnmNajDsa0n?usp=drive_link)  
+📽️ [Trailer](https://youtu.be/N3iP3Src8uw)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React** + **TailwindCSS**
-- **Unreal Engine** (for game dev)
-- **gh-pages** for deployment
-- **Typewriter Effect**, **tsparticles**, **AOS**
+- **Languages:** C++, JavaScript, Java  
+- **Engines:** Unreal Engine, Unity  
+- **Frontend:** React, TailwindCSS  
+- **Deployment:** GitHub Pages
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
 - GitHub: [@KarthikVeeranala](https://github.com/KarthikVeeranala)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
@@ -61,5 +57,4 @@ A survival puzzle game where a stranded programmer solves coding challenges to e
 
 ---
 
-> Made with ❤️ and late nights.
-
+🌀 *Crafted with code, caffeine, and chaos.*
